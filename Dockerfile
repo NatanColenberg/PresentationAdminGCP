@@ -11,7 +11,7 @@ COPY package*.json ./
 RUN npm install
 
 # Copy all the app files to the working directory in the container
-COPY ./client/build .
+COPY ./build .
 
 # Copy the Node-Express server to the working directory in the container
 COPY server.js .
