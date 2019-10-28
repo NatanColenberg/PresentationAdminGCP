@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6faaf1a3.chunk.css",
+    "main.js": "/static/js/main.1f36ca84.chunk.js",
+    "main.js.map": "/static/js/main.1f36ca84.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.0d0acf1f.js",
+    "runtime~main.js.map": "/static/js/runtime~main.0d0acf1f.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.10522731.chunk.js": "/static/js/2.10522731.chunk.js",
+    "static/js/2.10522731.chunk.js.map": "/static/js/2.10522731.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.85a0cfa7cddb06b2b19f89e193d4fd6c.js": "/precache-manifest.85a0cfa7cddb06b2b19f89e193d4fd6c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.6faaf1a3.chunk.css.map": "/static/css/main.6faaf1a3.chunk.css.map",
+    "static/media/core-sans-c-400-italic.woff2": "/static/media/core-sans-c-400-italic.4dd48d87.woff2",
+    "static/media/core-sans-c-400-italic.eot": "/static/media/core-sans-c-400-italic.86859bb6.eot",
+    "static/media/core-sans-c-400-italic.ttf": "/static/media/core-sans-c-400-italic.a54771e5.ttf",
+    "static/media/core-sans-c-400.eot": "/static/media/core-sans-c-400.8aefd2dc.eot",
+    "static/media/core-sans-c-400.woff2": "/static/media/core-sans-c-400.a7818393.woff2",
+    "static/media/core-sans-c-400.ttf": "/static/media/core-sans-c-400.c035a2f2.ttf",
+    "static/media/core-sans-c-600-italic.woff2": "/static/media/core-sans-c-600-italic.2ee5acd9.woff2",
+    "static/media/core-sans-c-600-italic.eot": "/static/media/core-sans-c-600-italic.855a5451.eot",
+    "static/media/core-sans-c-600-italic.ttf": "/static/media/core-sans-c-600-italic.91a85f3c.ttf",
+    "static/media/core-sans-c-600.woff2": "/static/media/core-sans-c-600.7b1d1d65.woff2",
+    "static/media/core-sans-c-600.ttf": "/static/media/core-sans-c-600.89b762ac.ttf",
+    "static/media/core-sans-c-600.eot": "/static/media/core-sans-c-600.d2e1bc82.eot"
+  }
+}
